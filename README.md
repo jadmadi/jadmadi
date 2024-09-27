@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Statistics
+
+<!-- rank_icon=percentile -->
+<img align="" height="137px" src="https://github-readme-stats-one-rosy.vercel.app/api?username=jadmadi&hide_title=true&hide_border=true&show_icons=true&count_private=true&line_height=21&theme=dracula" /><img align="" height="137px" src="https://github-readme-stats-one-rosy.vercel.app/api/top-langs/?username=jadmadi&hide_title=true&hide_border=true&layout=compact&hide=html&theme=dracula" />

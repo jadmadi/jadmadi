@@ -50,7 +50,7 @@ I build **AI coding devtools** and **Islamic-tech (وقف تك)** software. Work
 #### 📫 How to reach me:
 
 - [@jadmadi](https://twitter.com/jadmadi)
-- ✉️ dev@madi.se
+- ✉️ jadmadi@duck.com
 
 
 #### 👷 Currently working on
@@ -61,6 +61,6 @@ I build **AI coding devtools** and **Islamic-tech (وقف تك)** software. Work
 
 #### 📜 My recent blog posts
 
-{{range rss "https://madi.se/blog/feed/" 2}}
+{{range rss "https://jadmadi.net/rss.xml" 2}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}

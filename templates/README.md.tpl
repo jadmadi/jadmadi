@@ -51,16 +51,3 @@ I build **AI coding devtools** and **Islamic-tech (وقف تك)** software. Work
 
 - [@jadmadi](https://twitter.com/jadmadi)
 - ✉️ jadmadi@duck.com
-
-
-#### 👷 Currently working on
-
-{{range recentContributions 5}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
-{{- end}}
-
-#### 📜 My recent blog posts
-
-{{range rss "https://jadmadi.net/rss.xml" 2}}
-- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
-{{- end}}

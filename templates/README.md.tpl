@@ -4,7 +4,7 @@
   <img alt="jadmadi's GitHub profile" src="dark_mode.svg" />
 </picture>
 
-## Hi there 👋 I'm Jad.
+## Salam there 👋 I'm Jad.
 
 I build **AI coding devtools** and **Islamic-tech (وقف تك)** software. Working in Go, TypeScript, and SQLite — local-first, fast, and read-only by default.
 
@@ -37,7 +37,7 @@ I build **AI coding devtools** and **Islamic-tech (وقف تك)** software. Work
 <!-- rank_icon=percentile -->
 <img align="" height="137px" src="https://github-readme-stats-one-rosy.vercel.app/api?username=jadmadi&hide_title=true&hide_border=true&show_icons=true&count_private=true&line_height=21&theme=dracula" /><img align="" height="137px" src="https://github-readme-stats-one-rosy.vercel.app/api/top-langs/?username=jadmadi&hide_title=true&hide_border=true&layout=compact&hide=html&theme=dracula" />
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jadmadi&theme=default) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jadmadi&theme=default)
 
 ### Social
 

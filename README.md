@@ -4,7 +4,7 @@
   <img alt="jadmadi's GitHub profile" src="dark_mode.svg" />
 </picture>
 
-## Hi there 👋 I'm Jad.
+## Salam there 👋 I'm Jad.
 
 I build **AI coding devtools** and **Islamic-tech (وقف تك)** software. Working in Go, TypeScript, and SQLite — local-first, fast, and read-only by default.
 

@@ -1,14 +1,14 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg">
   <source media="(prefers-color-scheme: light)" srcset="light_mode.svg">
-  <img alt="Jad Madi — AI Devtools & Islamic-Tech Software Engineer" src="dark_mode.svg" width="100%">
+  <img alt="Jad Madi - AI Devtools & Islamic-Tech Software Engineer" src="dark_mode.svg" width="100%">
 </picture>
 
-# Jad Madi — AI Coding Devtools & Islamic-Tech Engineer
+# Jad Madi - AI Coding Devtools & Islamic-Tech Engineer
 
 Salam there 👋 I'm Jad. I build **local-first AI coding devtools**, **Model Context Protocol (MCP)** infrastructure, and **Islamic-tech (وقف تك)** software.
 
-Working in **Go**, **TypeScript**, and **SQLite** — local-first, fast, and read-only by default. Personal site: [jadmadi.net](https://jadmadi.net).
+Working in **Go**, **TypeScript**, and **SQLite** - local-first, fast, and read-only by default. Personal site: [jadmadi.net](https://jadmadi.net).
 
 ---
 
@@ -20,16 +20,16 @@ Working in **Go**, **TypeScript**, and **SQLite** — local-first, fast, and rea
 | [**sila**](https://github.com/jadmadi/sila) | Go, SQLite, MCP | Local-first knowledge engine that consolidates session memory, handoffs, and codebase facts across Devin, Claude Code, OpenCode, Codex, Antigravity, and MiMo into one queryable SQLite store. Features a 27-tool Model Context Protocol (MCP) server. |
 | [**open-streak**](https://github.com/jadmadi/open-streak) | TypeScript, CLI | GitHub-style terminal activity heatmap and streak tracker for your OpenCode usage data. |
 | [**mimo-streak**](https://github.com/jadmadi/mimo-streak) | TypeScript, CLI | GitHub-style terminal activity heatmap and streak tracker for your MiMoCode usage data. |
-| [**skill-cabinet-go**](https://github.com/jadmadi/skill-cabinet-go) | Go, UPX | Single-binary companion to [subsy/skill-cabinet](https://github.com/subsy/skill-cabinet) — scans agent skill drawers (`.agents`, `.claude`, `.codex`, `.cursor`), serves a local web desk, and provides a scriptable CLI (`ls`, `show`, `audit`, `delete`, `dedupe`, `snapshot`/`diff`). Byte-identical parity with Node, 3.5 MB UPX-packed, self-updating. |
+| [**skill-cabinet-go**](https://github.com/jadmadi/skill-cabinet-go) | Go, UPX | Single-binary companion to [subsy/skill-cabinet](https://github.com/subsy/skill-cabinet): scans agent skill drawers (`.agents`, `.claude`, `.codex`, `.cursor`), serves a local web desk, and provides a scriptable CLI (`ls`, `show`, `audit`, `delete`, `dedupe`, `snapshot`/`diff`). Byte-identical parity with Node, 3.5 MB UPX-packed, self-updating. |
 
 ---
 
-### WaqfTech — Islamic-Tech (وقف تك)
+### WaqfTech - Islamic-Tech (وقف تك)
 
 | Project | Stack | Description |
 | :--- | :--- | :--- |
-| [**waqftech-markdown-editor**](https://github.com/WaqfTech/waqftech-markdown-editor) | TypeScript | Lightweight Markdown editor with built-in auto-formatting for Islamic texts — Quranic brackets, Hadith quotation marks, and classical ligatures. [Live Demo](https://markdown.waqf.dev). |
-| [**waqf-license-draft**](https://github.com/WaqfTech/waqf-license-draft) | Legal / Spec | WaqfDPL-Isnad 1.0 — a digital public license (رُخصة وَقْف الرَّقْمِيَّة) governing Islamic-content software released as وقف لله تعالى. |
+| [**waqftech-markdown-editor**](https://github.com/WaqfTech/waqftech-markdown-editor) | TypeScript | Lightweight Markdown editor with built-in auto-formatting for Islamic texts (Quranic brackets, Hadith quotation marks, and classical ligatures). [Live Demo](https://markdown.waqf.dev). |
+| [**waqf-license-draft**](https://github.com/WaqfTech/waqf-license-draft) | Legal / Spec | WaqfDPL-Isnad 1.0: a digital public license (رُخصة وَقْف الرَّقْمِيَّة) governing Islamic-content software released as وقف لله تعالى. |
 
 ---
 
@@ -38,7 +38,7 @@ Working in **Go**, **TypeScript**, and **SQLite** — local-first, fast, and rea
 | Project | Category | Description |
 | :--- | :--- | :--- |
 | [**zed-mimoCode-theme**](https://github.com/jadmadi/zed-mimoCode-theme) | Zed Theme | Warm dark/light theme pair for the Zed code editor with signature orange accents. |
-| [**skill-cabinet**](https://github.com/subsy/skill-cabinet) | CLI Tool | Local catalog for agent skills installed on your machine (`npx skill-cabinet`) — scans `.agents`, `.claude`, `.codex`, `.cursor`, and manages skill folders on disk. |
+| [**skill-cabinet**](https://github.com/subsy/skill-cabinet) | CLI Tool | Local catalog for agent skills installed on your machine (`npx skill-cabinet`): scans `.agents`, `.claude`, `.codex`, `.cursor`, and manages skill folders on disk. |
 
 ---
 
@@ -68,4 +68,5 @@ Working in **Go**, **TypeScript**, and **SQLite** — local-first, fast, and rea
 - 𝕏: [@jadmadi](https://x.com/jadmadi)
 - 💬 Telegram: [@jadmadi](https://t.me/jadmadi)
 - ✉️ Email: [jadmadi@duck.com](mailto:jadmadi@duck.com)
+
 

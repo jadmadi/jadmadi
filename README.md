@@ -23,6 +23,7 @@ queryable SQLite store. 27-tool MCP server. | |
 terminal activity heatmap for your OpenCode usage data. | |
 [`mimo-streak`](https://github.com/jadmadi/mimo-streak) | TS | GitHub-style
 terminal activity heatmap for your MiMoCode usage data. |
+|[`skill-cabinet-go`](https://github.com/jadmadi/skill-cabinet-go) | Go | Single-binary companion to [subsy/skill-cabinet](https://github.com/subsy/skill-cabinet) — scans every agent skill drawer (`.agents`, `.claude`, `.codex`, `.cursor`, …), serves the same web desk, and adds a scriptable CLI: `ls`, `show`, `audit`, `delete`, `dedupe`, `snapshot`/`diff`. Byte-identical parity with the Node server, 3.5 MB UPX-packed, self-updating. |
 
 #### WaqfTech — Islamic-tech (وقف تك)
 
@@ -40,6 +41,12 @@ Islamic-content software released as وقف لله تعالى. |
 | Project | Lang | What it does | |---------|------|--------------| |
 [`zed-mimoCode-theme`](https://github.com/jadmadi/zed-mimoCode-theme) | JSON |
 Warm dark/light theme pair for Zed with signature orange accents. |
+
+### Tooling I use
+
+| Tool | What it does |
+|------|--------------|
+| [`skill-cabinet`](https://github.com/subsy/skill-cabinet) | Local catalog for agent skills installed on your machine — scans `.agents`, `.claude`, `.codex`, `.cursor`, and other `~/.*/skills` drawers, lets you read each skill's body and frontmatter, and can delete or quarantine skill folders from disk. Run with `npx skill-cabinet`. |
 
 ### Statistics
 

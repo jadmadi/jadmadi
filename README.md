@@ -45,7 +45,6 @@ Working in **Go**, **TypeScript**, and **SQLite** - local-first, fast, and read-
 ### Activity & Statistics
 
 <p align="center">
-  <img height="137px" src="https://github-readme-stats-one-rosy.vercel.app/api?username=jadmadi&hide_title=true&hide_border=true&show_icons=true&count_private=true&line_height=21&theme=dracula" alt="Jad Madi GitHub Stats" />
   <img height="137px" src="https://github-readme-stats-one-rosy.vercel.app/api/top-langs/?username=jadmadi&hide_title=true&hide_border=true&layout=compact&hide=html&theme=dracula" alt="Top Languages Used by Jad Madi" />
 </p>
 
@@ -60,13 +59,11 @@ Working in **Go**, **TypeScript**, and **SQLite** - local-first, fast, and read-
 <p align="left">
   <a href="https://jadmadi.net"><img alt="Website" src="https://img.shields.io/badge/Website-jadmadi.net-blue?style=social&logo=googlechrome"></a>
   <a href="https://x.com/jadmadi"><img alt="Follow on X" src="https://img.shields.io/badge/Follow-%40jadmadi-black?style=social&logo=x"></a>
-  <a href="https://t.me/jadmadi"><img alt="Telegram" src="https://img.shields.io/static/v1?style=social&logo=telegram&label=Studio&message=chat"></a>
   <a href="https://github.com/jadmadi"><img alt="GitHub followers" src="https://img.shields.io/github/followers/jadmadi?style=social&logo=github"></a>
 </p>
 
 - 🌐 **Website**: [jadmadi.net](https://jadmadi.net)
 - 𝕏: [@jadmadi](https://x.com/jadmadi)
-- 💬 Telegram: [@jadmadi](https://t.me/jadmadi)
 - ✉️ Email: [jadmadi@duck.com](mailto:jadmadi@duck.com)
 
 

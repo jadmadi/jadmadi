@@ -37,7 +37,7 @@ Working in **Go**, **TypeScript**, and **SQLite** - local-first, fast, and read-
 
 | Project | Category | Description |
 | :--- | :--- | :--- |
-| [**zed-mimoCode-theme**](https://github.com/jadmadi/zed-mimoCode-theme) | Zed Theme | Warm dark/light theme pair for the Zed code editor with signature orange accents. |
+| [**zed-mimoCode-theme**](https://github.com/jadmadi/zed-mimoCode-theme) | Zed Theme | Warm dark/light theme pair for the Zed code editor with signature orange accents. Accepted into the official [Zed Extensions](https://zed.dev/extensions/mimo-code-theme) repository. |
 | [**skill-cabinet**](https://github.com/subsy/skill-cabinet) | CLI Tool | Local catalog for agent skills installed on your machine (`npx skill-cabinet`): scans `.agents`, `.claude`, `.codex`, `.cursor`, and manages skill folders on disk. |
 
 ---

@@ -28,6 +28,7 @@ Working in **Go**, **TypeScript**, and **SQLite** - local-first, fast, and read-
 
 | Project <img width="200" height="1"> | Stack <img width="110" height="1"> | Description |
 | :--- | :--- | :--- |
+| [**mahak&#8209;bench**](https://github.com/WaqfTech/mahak-bench) | Astro, TypeScript | Open community benchmark evaluating AI models on native Arabic fluency across everyday tasks (contracts, correspondence, creative writing, and instruction following). [Live Platform](https://mahak.waqf.dev). |
 | [**waqftech&#8209;markdown&#8209;editor**](https://github.com/WaqfTech/waqftech-markdown-editor) | TypeScript | Lightweight Markdown editor with built-in auto-formatting for Islamic texts (Quranic brackets, Hadith quotation marks, and classical ligatures). [Live Demo](https://markdown.waqf.dev). |
 | [**waqf&#8209;license&#8209;draft**](https://github.com/WaqfTech/waqf-license-draft) | Legal / Spec | WaqfDPL-Isnad 1.0: a digital public license (رُخصة وَقْف الرَّقْمِيَّة) governing Islamic-content software released as وقف لله تعالى. |
 

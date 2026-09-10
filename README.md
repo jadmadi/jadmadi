@@ -1,14 +1,8 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg">
-  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg">
-  <img alt="Jad Madi - AI Devtools & Islamic-Tech Software Engineer" src="dark_mode.svg" width="100%">
-</picture>
+# Jad Madi - Founder & toolsmith
 
-# Jad Madi - AI Coding Devtools & Islamic-Tech Engineer
+Salam there 👋 I'm Jad. I focus on empirical Arabic AI fluency benchmarking ([Mahak مِحَكّ](https://mahak.waqf.dev)) and multi-agent memory ([Sila صِلَة](https://github.com/jadmadi/sila)).
 
-Salam there 👋 I'm Jad. I build **local-first AI coding devtools**, **Model Context Protocol (MCP)** infrastructure, and **Islamic-tech (وقف تك)** software.
-
-Working in **Go**, **TypeScript**, and **SQLite** - local-first, fast, and read-only by default. Personal site: [jadmadi.net](https://jadmadi.net).
+Working in **Go**, **TypeScript**, and **SQLite** - local-first, fast, and read-only by default. Find me at [jadmadi.net](https://jadmadi.net) and [x.com/jadmadi](https://x.com/jadmadi).
 
 ---
 

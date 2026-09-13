@@ -20,6 +20,18 @@ Now I look for thermal design partners, WaqfTech editor maintainers, and Arabic 
 
 ---
 
+### OpenCode Plugins
+
+[**opencode&#8209;sila&#8209;prime**](https://github.com/jadmadi/opencode-sila-prime)
+primes each OpenCode session from the Sila knowledge store. The
+full fleet plus conventions lives in the
+[**opencode&#8209;plugins**](https://github.com/jadmadi/opencode-plugins)
+map: distill, max-mode, skip-permissions, context-limit, loop,
+workflows, goal, memory, task-tool, compose-next, and
+model-switcher.
+
+---
+
 ### WaqfTech - Islamic-Tech (وقف تك)
 
 | Project <img width="200" height="1"> | Stack <img width="110" height="1"> | Description |
@@ -36,6 +48,8 @@ Now I look for thermal design partners, WaqfTech editor maintainers, and Arabic 
 | :--- | :--- | :--- |
 | [**zed&#8209;mimoCode&#8209;theme**](https://github.com/jadmadi/zed-mimoCode-theme) | Zed Theme | Warm dark/light theme pair for the Zed code editor with signature orange accents. Accepted into the official [Zed Extensions](https://zed.dev/extensions/mimo-code-theme) repository. |
 | [**skill&#8209;cabinet**](https://github.com/subsy/skill-cabinet) | CLI Tool | Upstream project by subsy that skill-cabinet-go above companions: local catalog for agent skills installed on your machine (`npx skill-cabinet`): scans `.agents`, `.claude`, `.codex`, `.cursor`, and manages skill folders on disk. |
+| [**committer**](https://github.com/jadmadi/committer) | Go CLI | Keeps every git repo under a path committed and pushed: scans for dirty repos, commits them, pushes the unpushed ones. |
+| [**bareed&#8209;dev**](https://github.com/jadmadi/bareed.dev) | Cloudflare Workers | Email sending platform with a Resend-compatible API on Workers. |
 
 ---
 
